@@ -20,6 +20,11 @@
         android:theme="@style/Theme.CameraXGuide"
         tools:targetApi="31">
         <activity
+            android:name=".ImagePreview"
+            android:exported="false"
+            android:label="@string/title_activity_image_preview"
+            android:theme="@style/Theme.CameraXGuide" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"

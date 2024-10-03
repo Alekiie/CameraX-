@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CameraXGuide</string>
+    <string name="title_activity_image_preview">ImagePreview</string>
 </resources>
